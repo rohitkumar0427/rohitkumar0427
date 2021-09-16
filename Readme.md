@@ -2,7 +2,7 @@
 
 <h2  align="center">A curious, enthusiastic and passionate full stack web developer from India</h2>
 
-- Wanna see my [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://rohitkumar0427.github.io/portfolio/)
+- Have a look at my [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://rohitkumar0427.github.io/portfolio/)
 
  ### Skilled in
  
@@ -12,8 +12,9 @@
  
 </h2>
 
+<h2 align="center">
 [![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitkumar0427&show_icons=true&theme=radical)](https://github.com/rohitkumar0427/github-readme-stats)
-
+</h2>
 
 ### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rkg1995/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/imrkg2) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohitkumar0427@gmail.com)
 
