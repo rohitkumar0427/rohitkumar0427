@@ -1,4 +1,4 @@
-![gitBannerPic](https://user-images.githubusercontent.com/77038661/126056197-bd70d702-9595-49b3-aea6-bfd97b683402.png)
+![gitBannerPic](https://github.com/rohitkumar0427/rohitkumar0427/blob/main/Cover.jpg)
 
 <h2  align="center">A curious, enthusiastic and passionate full stack web developer from India</h2>
 
