@@ -2,7 +2,7 @@
 
 <h2  align="center">A curious, enthusiastic and passionate full stack web developer from India</h2>
 
-###Have a look at my [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://rohitkumar0427.github.io/portfolio/)
+### Have a look at my [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://rohitkumar0427.github.io/portfolio/)
 
  ### Skilled in
  
